@@ -33,5 +33,5 @@ When looking at this chart, we are able to see:
 Based on these findings, some recommendations for Louise would be:
 * Starting her Kickstarter campaign in either February, May or June
 * Attempting to have her play produced for as little as possible, as we see that failed kickstarter campaigns generally have a greater goal than successful campaigns
-** Successful US campaigns have a median goal of $3K and a median pledge amount of $3K
-** The upper quartile for pledges to GB musical kickstarter campaigns (~$1.8K ) falls below the median goal for the same campaigns ($2K)
+* Successful US campaigns have a median goal of $3K and a median pledge amount of $3K
+* The upper quartile for pledges to GB musical kickstarter campaigns (~$1.8K ) falls below the median goal for the same campaigns ($2K)
